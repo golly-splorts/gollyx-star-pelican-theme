@@ -351,13 +351,17 @@ table tr.scoreboard-table-first-row td {
      * border-top: 0px;
      */
     border-top: 1px solid #aaa;
-    padding: 0.45rem;
+    padding: 0.55rem;
     border-bottom: 1px solid #999;
 }
 
 table tr.scoreboard-table-nth-row td {
     border-bottom: 1px solid #999;
-    padding: 0.45rem;
+    padding: 0.55rem;
+}
+
+table tr.scoreboard-table-last-row td {
+    padding: 0.55rem;
 }
 
 table.scoreboard-panel-table thead th {
