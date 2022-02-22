@@ -1,6 +1,9 @@
-# gollyx-pelican-theme
+# gollyx-star-pelican-theme
 
 Pelican theme for the the GollyX website.
+
+Basically a clone of [gollyx-dragon-pelican-theme](https://github.com/golly-splorts/gollyx-dragon-pelican-theme)
+with a few minor tweaks.
 
 The Pelican theme consists of all elements of the UI that are common to
 all pages of the GollyX UI.
